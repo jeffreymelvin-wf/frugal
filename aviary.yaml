@@ -2,6 +2,7 @@ version: 1
 
 exclude:
   - tests?/
+  - Godeps/
 
 raven_monitored_classes: null
 
